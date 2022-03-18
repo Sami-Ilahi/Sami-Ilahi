@@ -1,6 +1,5 @@
 <img align="center" src="images/banner2.gif" width="100%" >
 <br />
-<br />
 <table align="right">
 <tr><td>Languages</td></tr>
 
@@ -12,7 +11,7 @@
 
 ### About Me
 
-<strong>I'm a Full Stack Developer based in netherlands,</strong> soaking up as much knowledge and practice as I can at Integrify in an attempt to perfect my craft. So far, I have HTML, CSS, SAAS Javascript, TypeScript, Node.JS, ReactJS, Express.JS MongoDb, Git/GitHub, DevOps, and soon AWS Cloud Services under my belt.
+I'm a Full Stack Developer based in netherlands, soaking up as much knowledge and practice as I can at Integrify in an attempt to perfect my craft. So far, I have<strong> HTML, CSS, SAAS Javascript, TypeScript, Node.JS, ReactJS, Express.JS, MongoDb, Git/GitHub, DevOps,</strong> and soon<strong> AWS Cloud Services</strong> under my belt.
 
 🎮 In addition to web development, I have broad interests including sciences of education, management, marketing and product management, politics, photography, and traveling...
 
