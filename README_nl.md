@@ -1,4 +1,4 @@
-<img align="center" src="images/banner2.gif" width="100%" >
+<img align="center" src="images/b-nl.gif" width="100%" >
 <br />
 <table align="right">
 <tr><td>Languages</td></tr>
